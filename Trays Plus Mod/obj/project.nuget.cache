@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ze00zDPZqBMYVnBBpsbPmPujE0pZczTp8YLhjRJ4AGeQZ7m0WhF1mP9OzvETKT7zLVrqNhRFiIr7CSjne+oOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ming Thao\\Desktop\\Plateup Mod\\Trays Plus Mod\\TraysPlus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ming Thao\\.nuget\\packages\\messagepack.annotations\\2.4.59\\messagepack.annotations.2.4.59.nupkg.sha512",
+    "C:\\Users\\Ming Thao\\.nuget\\packages\\yariazen.plateup.modbuildutilities\\1.6.16\\yariazen.plateup.modbuildutilities.1.6.16.nupkg.sha512"
+  ],
+  "logs": []
+}

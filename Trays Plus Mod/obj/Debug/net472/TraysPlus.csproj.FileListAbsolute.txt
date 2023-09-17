@@ -1,0 +1,22 @@
+C:\Users\Ming Thao\Desktop\Plateup Mod\KitchenTraysPlus-main\bin\Debug\net472\TraysPlus-Workshop.dll
+C:\Users\Ming Thao\Desktop\Plateup Mod\KitchenTraysPlus-main\bin\Debug\net472\TraysPlus-Workshop.pdb
+C:\Users\Ming Thao\Desktop\Plateup Mod\KitchenTraysPlus-main\bin\Debug\net472\MessagePack.Annotations.dll
+C:\Users\Ming Thao\Desktop\Plateup Mod\KitchenTraysPlus-main\obj\Debug\net472\TraysPlus.csproj.AssemblyReference.cache
+C:\Users\Ming Thao\Desktop\Plateup Mod\KitchenTraysPlus-main\obj\Debug\net472\TraysPlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ming Thao\Desktop\Plateup Mod\KitchenTraysPlus-main\obj\Debug\net472\TraysPlus.AssemblyInfoInputs.cache
+C:\Users\Ming Thao\Desktop\Plateup Mod\KitchenTraysPlus-main\obj\Debug\net472\TraysPlus.AssemblyInfo.cs
+C:\Users\Ming Thao\Desktop\Plateup Mod\KitchenTraysPlus-main\obj\Debug\net472\TraysPlus.csproj.CoreCompileInputs.cache
+C:\Users\Ming Thao\Desktop\Plateup Mod\KitchenTraysPlus-main\obj\Debug\net472\TraysPlus.csproj.CopyComplete
+C:\Users\Ming Thao\Desktop\Plateup Mod\KitchenTraysPlus-main\obj\Debug\net472\TraysPlus-Workshop.dll
+C:\Users\Ming Thao\Desktop\Plateup Mod\KitchenTraysPlus-main\obj\Debug\net472\TraysPlus-Workshop.pdb
+C:\Users\Ming Thao\Desktop\Plateup Mod\Trays Plus Mod\bin\Debug\net472\TraysPlus-Workshop.dll
+C:\Users\Ming Thao\Desktop\Plateup Mod\Trays Plus Mod\bin\Debug\net472\TraysPlus-Workshop.pdb
+C:\Users\Ming Thao\Desktop\Plateup Mod\Trays Plus Mod\bin\Debug\net472\MessagePack.Annotations.dll
+C:\Users\Ming Thao\Desktop\Plateup Mod\Trays Plus Mod\obj\Debug\net472\TraysPlus.csproj.AssemblyReference.cache
+C:\Users\Ming Thao\Desktop\Plateup Mod\Trays Plus Mod\obj\Debug\net472\TraysPlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ming Thao\Desktop\Plateup Mod\Trays Plus Mod\obj\Debug\net472\TraysPlus.AssemblyInfoInputs.cache
+C:\Users\Ming Thao\Desktop\Plateup Mod\Trays Plus Mod\obj\Debug\net472\TraysPlus.AssemblyInfo.cs
+C:\Users\Ming Thao\Desktop\Plateup Mod\Trays Plus Mod\obj\Debug\net472\TraysPlus.csproj.CoreCompileInputs.cache
+C:\Users\Ming Thao\Desktop\Plateup Mod\Trays Plus Mod\obj\Debug\net472\TraysPlus.csproj.CopyComplete
+C:\Users\Ming Thao\Desktop\Plateup Mod\Trays Plus Mod\obj\Debug\net472\TraysPlus-Workshop.dll
+C:\Users\Ming Thao\Desktop\Plateup Mod\Trays Plus Mod\obj\Debug\net472\TraysPlus-Workshop.pdb
